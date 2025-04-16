@@ -1,4 +1,10 @@
-## Hi there 👋
+## HI, THIS IS LEILA MARTINEZ 👋
+
+🔭 I’m currently working on XcapesVIP's website for a nice couple that are new Travel Agents
+🌱 I’m currently learning React.js, Javascript, CSS and integrating Google Firebase Services
+⚡ Fun fact: I really enjoy watching horror gameplays on Youtube. Someone I tend to watch is Hollow
+
+
 
 <!--
 **leilaale/leilaale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
