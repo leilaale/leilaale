@@ -4,6 +4,8 @@
 🌱 I’m currently learning React.js, Javascript, CSS and integrating Google Firebase Services <br/>
 ⚡ Fun fact: I really enjoy watching horror gameplays on Youtube. Someone I tend to watch is Hollow <br/>
 
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 
 
 <!--
