@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Full-Stack+Developer+at+El+Paso+TX" alt="Typing SVG" /></a>
 </p>
 
-I'm eager to learn different tech skills through various projects. I've tried Mobile Applications, Websites, NLP models, Cloud Services, APIs. <br/>
+I'm eager to learn different tech skills through out various projects. I've tried Mobile Applications, Websites, NLP models, Cloud Services, APIs. <br/>
 I'm currenty learning more about React.js, Javascript, CSS styling, and integrating Google Firebase Services in my current project XcapesVIP ~ A travel agency website<br/>
 
 Current Projects: <br/>
